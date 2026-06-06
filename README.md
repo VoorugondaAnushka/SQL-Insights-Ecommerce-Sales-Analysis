@@ -1,7 +1,6 @@
 # SQL-Insights-Ecommerce-Sales-Analysis
 E-Commerce Sales Analysis using MySQL and SQL Queries
 
-# SQL Insights - E-Commerce Sales Analysis
 ## Overview
 Designed and analyzed an e-commerce database using MySQL to generate business insights from customer, product, order, and revenue data.
 
